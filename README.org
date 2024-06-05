@@ -1,0 +1,9 @@
+* precise-time
+
+Precise time measurements
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/Shinmera/precise-time.git |
+| commit  | c7a8a10                                          |
+| systems | precise-time                                     |
+|---------+--------------------------------------------------|
