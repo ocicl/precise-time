@@ -4,6 +4,6 @@ Precise time measurements
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/Shinmera/precise-time.git |
-| commit  | 08b7009                                          |
+| commit  | 86977d9                                          |
 | systems | precise-time                                     |
 |---------+--------------------------------------------------|
