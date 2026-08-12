@@ -6,4 +6,4 @@ Precise time measurements
 | source  | git:https://codeberg.org/shinmera/precise-time.git |
 | commit  | 93ea6ae                                          |
 | systems | precise-time                                     |
-|---------+--------------------------------------------------|
+|---------+--------------------------------------------------| 
